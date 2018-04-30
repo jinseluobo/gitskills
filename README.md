@@ -4,4 +4,4 @@ test2
 test3
 test4
 test5r
-reatng a new branch is quick AND simple.
+Creatng a new branch is quick AND simple.
