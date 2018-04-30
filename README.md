@@ -4,4 +4,8 @@ test2
 test3
 test4
 test5r
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick AnD simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
